@@ -1,8 +1,5 @@
 <h1>I’m @yoropiko3292</h1>
-- 👀 I’m interested in playing basketball.<br>
-- 🌱 I’m currently learning about c#.<br>
-- 💞️ I’m looking to collaborate on ...<br>
-- 📫 How to reach me ...
+- 詳しくは<a href="https://yoropiko3292.github.io">こちら</a>
 
 <!---
 yoropiko3292/yoropiko3292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
